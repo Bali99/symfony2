@@ -1,0 +1,7 @@
+parameters:
+#    board.example.class: Pepsi\BoardBundle\Example
+
+services:
+#    board.example:
+#        class: %board.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
